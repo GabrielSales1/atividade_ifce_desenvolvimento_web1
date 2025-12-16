@@ -1,6 +1,6 @@
 # Sistema Web com Interação via JavaScript
 
-Este projeto consiste no desenvolvimento de um site com foco na **interação com o usuário**, utilizando **HTML, CSS e JavaScript**, conforme os requisitos da disciplina. O sistema implementa telas de **login**, **cadastro** e **gerenciamento de dados**, fazendo uso de **eventos JavaScript** para manipulação dinâmica das informações.
+Este projeto consiste no desenvolvimento de um site com foco na **interação com o usuário**, utilizando **HTML, CSS e JavaScript**, conforme os requisitos da disciplina. O sistema implementa telas de **gerenciamento de dados**, fazendo uso de **eventos JavaScript** para manipulação dinâmica das informações.
 
 ## 🎯 Objetivo
 
@@ -12,7 +12,6 @@ O objetivo do projeto é demonstrar a utilização de eventos JavaScript para:
 
 ## 🧩 Funcionalidades
 
-- Tela de **Login**
 - Formulários para **cadastro e edição de dados**
 - Tabela para listagem dos itens cadastrados
 - Botões de **Editar** e **Apagar** em cada registro
